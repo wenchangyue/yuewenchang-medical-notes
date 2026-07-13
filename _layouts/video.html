@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article>
+  <p class="eyebrow">{{ page.format | default: "公开视频文字整理" }}{% if page.topic %} · {{ page.topic }}{% endif %}</p>
+  <h1>{{ page.title }}</h1>
+  <p class="meta">视频发布于 {{ page.upload_date }} · 本页复核于 {{ page.reviewed_date }}</p>
+  {% if page.video_id %}<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{{ page.video_id }}" title="{{ page.title | escape }}" loading="lazy" allowfullscreen></iframe></div><p class="watch">▶ <a href="{{ page.youtube_url }}">在 YouTube 观看</a></p>{% endif %}
+  {% if page.review_status %}<p class="note">{{ page.review_status }}</p>{% endif %}
+  {% if page.quick_answer %}<section class="quick-answer"><h2>简要回答</h2>{{ page.quick_answer | markdownify }}</section>{% endif %}
+  {{ content }}
+  {% if page.faq %}<section><h2>常见问题</h2>{% for item in page.faq %}<h3>{{ item.q }}</h3><div>{{ item.a | markdownify }}</div>{% endfor %}</section>{% endif %}
+  {% if page.sources %}<section><h2>来源</h2><ol>{% for s in page.sources %}<li><a href="{{ s.url }}">{{ s.title }}</a>{% if s.note %}：{{ s.note }}{% endif %}</li>{% endfor %}</ol></section>{% endif %}
+  <p class="note risk">本页只用于医学科普和教育，不构成个体化诊断、用药或治疗建议。</p>
+</article>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {
+      "@type":"VideoObject",
+      "name":{{ page.title | jsonify }},
+      "description":{{ page.description | default: site.description | strip_newlines | jsonify }},
+      "inLanguage":"zh-CN",
+      "embedUrl":"https://www.youtube.com/embed/{{ page.video_id }}",
+      "thumbnailUrl":"https://i.ytimg.com/vi/{{ page.video_id }}/hqdefault.jpg",
+      "url":{{ page.youtube_url | jsonify }},
+      "uploadDate":{{ page.upload_date | jsonify }},
+      "duration":{{ page.duration | jsonify }},
+      "author":{"@id":{{ site.url | append: site.baseurl | append: '/#author' | jsonify }}}
+    },
+    {
+      "@type":"MedicalWebPage",
+      "headline":{{ page.title | jsonify }},
+      "description":{{ page.description | default: site.description | strip_newlines | jsonify }},
+      "inLanguage":"zh-CN",
+      "mainEntityOfPage":{{ page.url | absolute_url | jsonify }},
+      "datePublished":{{ page.upload_date | jsonify }},
+      "dateModified":{{ page.reviewed_date | jsonify }},
+      "lastReviewed":{{ page.reviewed_date | jsonify }},
+      "author":{"@id":{{ site.url | append: site.baseurl | append: '/#author' | jsonify }}},
+      "citation":[{% for s in page.sources %}{{ s.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]
+    }{% if page.faq %},
+    {
+      "@type":"FAQPage",
+      "mainEntity":[{% for item in page.faq %}{"@type":"Question","name":{{ item.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | markdownify | strip_html | strip_newlines | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]
+    }{% endif %}
+  ]
+}
+</script>

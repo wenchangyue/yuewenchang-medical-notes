@@ -1,0 +1,35 @@
+title: 岳文昌医生｜中文医学科普资料库
+description: >-
+  岳文昌医生 YouTube 频道的公开文字资料库，整理前列腺癌、PSA、泌尿系统疾病和男性健康视频的经核对文字、适用边界与来源。
+author: 岳文昌医生
+lang: zh-CN
+timezone: America/New_York
+url: "https://wenchangyue.github.io"
+baseurl: "/yuewenchang-medical-notes"
+youtube_channel: "https://www.youtube.com/@yuewenchang"
+repository_url: "https://github.com/wenchangyue/yuewenchang-medical-notes"
+
+markdown: kramdown
+
+collections:
+  videos:
+    output: true
+    permalink: /videos/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: videos
+    values:
+      layout: video
+  - scope:
+      path: ""
+    values:
+      image: /assets/avatar.jpg
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - TEMPLATE-video.md
