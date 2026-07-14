@@ -1,5 +1,7 @@
 ---
 published: false
+# SEO/GEO 阶段完成本页，但保留 published: false。YouTube 上传程序会先
+# private 上传取得稳定 ID，再自动填 video_id/youtube_url/upload_date、发布并核验。
 title: 视频标题
 description: 经核对的页面摘要。
 format: 长视频文字整理

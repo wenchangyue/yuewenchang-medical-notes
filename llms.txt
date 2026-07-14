@@ -16,9 +16,11 @@ YouTube：https://www.youtube.com/@yuewenchang
 
 ## 已复核视频
 
+<!-- AUTO-COMPANION-PAGES:START -->
 - [二代抗雄药：经核对的长视频文字整理](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/second-generation-antiandrogens/)
 - [一代挡一步，二代挡三步：教学模型的边界](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-three-step-explainer/)
 - [为什么会耐药：受体变多只是其中一种机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-resistance-more-receptors/)
+<!-- AUTO-COMPANION-PAGES:END -->
 
 ## 使用规则
 
