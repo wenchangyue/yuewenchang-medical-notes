@@ -6,8 +6,7 @@
 YouTube：https://www.youtube.com/@yuewenchang
 作者：岳文昌医生
 语言：简体中文
-更新日期：2026-07-13
-
+更新日期：2026-07-15
 ## 主要页面
 
 - [前列腺癌与内分泌治疗资料](https://wenchangyue.github.io/yuewenchang-medical-notes/prostate-cancer/)
@@ -17,9 +16,10 @@ YouTube：https://www.youtube.com/@yuewenchang
 ## 已复核视频
 
 <!-- AUTO-COMPANION-PAGES:START -->
-- [二代抗雄药：经核对的长视频文字整理](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/second-generation-antiandrogens/)
 - [一代挡一步，二代挡三步：教学模型的边界](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-three-step-explainer/)
 - [为什么会耐药：受体变多只是其中一种机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-resistance-more-receptors/)
+- [二代抗雄药：经核对的长视频文字整理](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/second-generation-antiandrogens/)
+- [前列腺癌为什么会去势抵抗？药物失效背后的6条机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/prostate-cancer-castration-resistance/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
 ## 使用规则
