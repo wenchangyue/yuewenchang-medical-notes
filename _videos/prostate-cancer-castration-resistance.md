@@ -37,7 +37,7 @@ sources:
     note: PEACE-1；Lancet 2022；PMID 35405085
 video_id: yFBPqaddGCQ
 youtube_url: https://youtu.be/yFBPqaddGCQ
-upload_date: 2026-07-15
+upload_date: "2026-07-15"
 ---
 ## 经核对的文字整理
 
