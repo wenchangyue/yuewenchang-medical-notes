@@ -21,6 +21,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [二代抗雄药：经核对的长视频文字整理](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/second-generation-antiandrogens/)
 - [前列腺癌为什么会去势抵抗？药物失效背后的6条机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/prostate-cancer-castration-resistance/)
 - [膀胱癌“侵犯肌层”指哪一层？Ta、T1、T2与病理报告](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-muscle-invasion-staging/)
+- [膀胱癌病理分级怎么看？G2、低级别、高级别与 PUNLMP](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-pathology-grading/)
 - [膀胱癌的病因是什么？吸烟、职业暴露和复发机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-causes/)
 <!-- AUTO-COMPANION-PAGES:END -->
 
