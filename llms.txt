@@ -21,6 +21,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [二代抗雄药：经核对的长视频文字整理](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/second-generation-antiandrogens/)
 - [前列腺癌为什么会去势抵抗？药物失效背后的6条机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/prostate-cancer-castration-resistance/)
 - [经尿道电切，手术台上到底发生了什么](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-turbt/)
+- [膀胱癌BCG灌注：一支疫苗怎样用来治癌？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-bcg-intravesical-therapy-mechanism-maintenance-side-effects/)
 - [膀胱癌“侵犯肌层”指哪一层？Ta、T1、T2与病理报告](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-muscle-invasion-staging/)
 - [膀胱癌二次电切：为什么切完还要再切，病理报告怎么看？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-repeat-turbt-pathology/)
 - [膀胱癌反复复发：戒烟、门诊电灼和主动监测怎样选？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-smoking-cessation-office-fulguration-active-surveillance/)
