@@ -16,6 +16,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 ## 已复核视频
 
 <!-- AUTO-COMPANION-PAGES:START -->
+- [BCG无应答后怎么办？保膀治疗与切膀胱时机](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-bcg-unresponsive-systemic-therapy-cystectomy-timing/)
 - [BCG灌注后复发怎么办？五种状态与保膀新疗法](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-bcg-failure-unresponsive-new-intravesical-treatments/)
 - [一代挡一步，二代挡三步：教学模型的边界](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-three-step-explainer/)
 - [为什么会耐药：受体变多只是其中一种机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-resistance-more-receptors/)
