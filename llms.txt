@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/@yuewenchang
 作者：岳文昌医生
 语言：简体中文
-更新日期：2026-09-10
+更新日期：2026-09-11
 ## 主要页面
 
 - [前列腺癌与内分泌治疗资料](https://wenchangyue.github.io/yuewenchang-medical-notes/prostate-cancer/)
@@ -31,6 +31,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [膀胱癌反复复发：戒烟、门诊电灼和主动监测怎样选？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-smoking-cessation-office-fulguration-active-surveillance/)
 - [膀胱癌四档风险怎么治？从一次灌注到讨论膀胱切除](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-risk-groups-treatment-cis-bcg-cystectomy/)
 - [膀胱癌基因检测怎么选？FGFR3、HER2、ctDNA和PD-L1](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-biomarker-testing/)
+- [膀胱癌术前要做哪些检查？CT、MRI、PET各能看什么](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-staging-tests/)
 - [膀胱癌术后即刻灌注：为什么时间窗只有几小时？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-immediate-intravesical-chemotherapy-after-turbt/)
 - [膀胱癌术后多久做一次膀胱镜？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-cystoscopy-follow-up-schedule/)
 - [膀胱癌病理分级怎么看？G2、低级别、高级别与 PUNLMP](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-pathology-grading/)
