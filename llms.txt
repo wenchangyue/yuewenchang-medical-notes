@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/@yuewenchang
 作者：岳文昌医生
 语言：简体中文
-更新日期：2026-09-11
+更新日期：2026-09-12
 ## 主要页面
 
 - [前列腺癌与内分泌治疗资料](https://wenchangyue.github.io/yuewenchang-medical-notes/prostate-cancer/)
@@ -25,6 +25,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [指南里的强推荐和弱推荐，患者该怎么用？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/how-to-read-strong-weak-guideline-recommendations-bladder-cancer/)
 - [根治性膀胱切除切什么？手术时机、器官保留与淋巴结清扫](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-radical-cystectomy-timing-organ-preservation/)
 - [经尿道电切，手术台上到底发生了什么](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-turbt/)
+- [膀胱切除后尿从哪里出？回肠通道、新膀胱与机器人手术](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-urinary-diversion-neobladder-robotic-surgery/)
 - [膀胱癌BCG灌注：一支疫苗怎样用来治癌？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-bcg-intravesical-therapy-mechanism-maintenance-side-effects/)
 - [膀胱癌“侵犯肌层”指哪一层？Ta、T1、T2与病理报告](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-muscle-invasion-staging/)
 - [膀胱癌为什么一发现就侵犯肌层？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-muscle-invasive-at-diagnosis-risk-factors/)
