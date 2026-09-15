@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/@yuewenchang
 作者：岳文昌医生
 语言：简体中文
-更新日期：2026-09-14
+更新日期：2026-09-15
 ## 主要页面
 
 - [前列腺癌与内分泌治疗资料](https://wenchangyue.github.io/yuewenchang-medical-notes/prostate-cancer/)
@@ -61,6 +61,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [膀胱癌诊疗质量怎么看，什么时候可以少做一点？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-quality-indicators-safe-deintensification/)
 - [膀胱癌风险分层：低危、中危、高危、极高危怎样判断？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-risk-stratification-eau-eortc/)
 - [血尿之后要查哪些？为什么膀胱镜绕不过去](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-haematuria-workup/)
+- [血尿只有一次也要查吗？膀胱镜、CT与电切手术20问](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-hematuria-cystoscopy-turbt/)
 - [转移性上尿路肿瘤怎么治？用药、手术目的和四类随访时间表](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/metastatic-utuc-followup-quality/)
 - [转移性膀胱癌一线怎么治？EV+帕博利珠单抗、铂类与免疫维持](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/metastatic-bladder-cancer-first-line-treatment/)
 - [转移性膀胱癌一线进展后怎么办？EV、免疫、厄达替尼和HER2后线排序](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/metastatic-bladder-cancer-later-line-treatment/)
