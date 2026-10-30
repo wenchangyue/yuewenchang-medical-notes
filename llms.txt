@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/@yuewenchang
 作者：岳文昌医生
 语言：简体中文
-更新日期：2026-10-06
+更新日期：2026-10-30
 ## 主要页面
 
 - [前列腺癌与内分泌治疗资料](https://wenchangyue.github.io/yuewenchang-medical-notes/prostate-cancer/)
@@ -26,6 +26,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [中国膀胱癌患者怎样就医？药品、医保、医院和临床试验一次讲清](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-care-in-china/)
 - [为什么会耐药：受体变多只是其中一种机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/ar-resistance-more-receptors/)
 - [二代抗雄药：经核对的长视频文字整理](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/second-generation-antiandrogens/)
+- [令人心动的offer 8争议解读：专硕不上临床、盲猜诊断，规培和四证合一的实情](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/offer8-zhuanshuo-guipei/)
 - [低危上尿路肿瘤怎么保肾？4种治疗、复发和狭窄风险](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/low-risk-utuc-kidney-sparing-treatment/)
 - [前列腺癌为什么会去势抵抗？药物失效背后的6条机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/prostate-cancer-castration-resistance/)
 - [指南里的强推荐和弱推荐，患者该怎么用？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/how-to-read-strong-weak-guideline-recommendations-bladder-cancer/)
