@@ -6,7 +6,7 @@
 YouTube：https://www.youtube.com/@yuewenchang
 作者：岳文昌医生
 语言：简体中文
-更新日期：2026-10-30
+更新日期：2026-11-05
 ## 主要页面
 
 - [前列腺癌与内分泌治疗资料](https://wenchangyue.github.io/yuewenchang-medical-notes/prostate-cancer/)
@@ -29,6 +29,7 @@ YouTube：https://www.youtube.com/@yuewenchang
 - [令人心动的offer 8争议解读：专硕不上临床、盲猜诊断，规培和四证合一的实情](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/offer8-zhuanshuo-guipei/)
 - [低危上尿路肿瘤怎么保肾？4种治疗、复发和狭窄风险](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/low-risk-utuc-kidney-sparing-treatment/)
 - [前列腺癌为什么会去势抵抗？药物失效背后的6条机制](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/prostate-cancer-castration-resistance/)
+- [医学生如何培养临床思维](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/clinical-thinking-medical-students/)
 - [指南里的强推荐和弱推荐，患者该怎么用？](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/how-to-read-strong-weak-guideline-recommendations-bladder-cancer/)
 - [晚期膀胱癌怎么排用药顺序？临床试验和费用12问](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/advanced-bladder-cancer-treatment-sequence-trials-costs/)
 - [根治性膀胱切除切什么？手术时机、器官保留与淋巴结清扫](https://wenchangyue.github.io/yuewenchang-medical-notes/videos/bladder-cancer-radical-cystectomy-timing-organ-preservation/)
